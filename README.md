@@ -1,0 +1,2 @@
+# laviieru
+K means
